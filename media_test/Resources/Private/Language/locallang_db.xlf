@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2016-06-18T12:03:24Z"
+          product-name="media_test">
+        <header/>
+        <body>
+            <trans-unit id="tt_content.header_mediatest">
+                <source>Header:</source>
+            </trans-unit>
+            <trans-unit id="tt_content.subheader_mediatest">
+                <source>Subheader:</source>
+            </trans-unit>
+            <trans-unit id="tt_content.button_url">
+                <source>Button URL:</source>
+            </trans-unit>
+            <trans-unit id="tt_content.button_text">
+                <source>Button text:</source>
+            </trans-unit>
+            <trans-unit id="tt_content.bodytext">
+                <source>Text:</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

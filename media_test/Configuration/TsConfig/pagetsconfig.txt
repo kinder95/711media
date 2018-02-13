@@ -1,0 +1,13 @@
+mod.wizards.newContentElement.wizardItems.special {
+   elements {
+      mediatest_jumbotron {
+         #iconIdentifier = your-icon-identifier
+         title = Jumbotron
+         description = Jumbotron
+         tt_content_defValues {
+            CType = mediatest_jumbotron
+         }
+      }
+   }
+   show := addToList(mediatest_jumbotron)
+}
